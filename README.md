@@ -1,16 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Timothy Afolami
+Hi! My name is John Eze
 =======================================================================================================================================
 
-Machine Learning Engineer & Data Scientist
-------------------------------------------
+Data Scientist | Machine Learning Engineer | AI Data Trainer
+------------------------------------------------------------
 
-Greetings, I am Timothy, a seasoned Data Scientist with a robust experience spanning 4 years. My expertise lies in the realm of tabular data, where I have honed my skills in various techniques including but not limited to data cleaning, feature engineering, scaling, and preprocessing. In addition to tabular data, I possess a strong acumen in handling diverse data types such as time series, texts, images, and audio. My proficiency extends to various preprocessing techniques tailored for each of these data types. My repertoire also includes familiarity with Language Learning Models (LLMs) such as OpenAI, Mistral, Gemini, Bedrock, Groq, and so on. Leveraging these models, I have successfully built an array of projects including chatbots and pdfchats, among others. Currently, I am in the process of refining my MLOps skills with an aim to build comprehensive end-to-end machine learning projects. I bring to the table a solid foundational experience in MLOps, and I am eager to further expand this skill set. Looking forward to bringing my diverse skill set and passion for data science to new and challenging projects.
+Greetings, I am John, a seasoned Data Scientist with 3 years of experience transforming raw data from various sources and with various tools into actionable insights and training effective AI and machine learning models. My expertise lies in the realm of tabular data, where I have honed my skills in various techniques including but not limited to data cleaning, feature engineering, scaling, and preprocessing. In addition to tabular data, I possess a strong acumen in handling diverse data types such as time series, texts, images, and audio. My proficiency extends to various preprocessing techniques tailored for each of these data types. I am also familiar with Language Learning Models (LLMs) such as OpenAI, Mistral, Gemini, Copilot, etc I have leveraged them to build chatbots. I am passionate about using Data and AI to improve the lives of everyday people and am always eager to take on projects that do just that. HEre 
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [timmyafolami8469@gmail.com](mailto:timmyafolami8469@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithm, MLOps techniques, DevOps techniques, training Large Deep Learning models.
-* 🤝  I'm open to collaborating on Creating LLM powered Chatbots, Training Deep Learning Models, Creating Forecasting Models, Building End to End Machine Learning Projects
-
+* 🌍  I am a Master's Student in Mathematical Science (major in Data Science) at [AIMS Rwanda](https://aims.ac.rw/)
+* ✉️  You can contact me at [john.eze@ais.ac.rw](mailto:john.eze@ais.ac.rw)
+* 🧠  I am learning Data Structures and Algorithms, Mathematical and Data-Driven Optimization, Deep Learning models and Neural Networks.
+* 🤝  I am open to collaborating on creating ..., Creating Forecasting Models, Building End to End Machine Learning Projects
+* ❤️‍🔥  I am passionate about harnessing the power of Data and AI to improve the lives of everyday people.
+  
 <a href="https://www.github.com/timothyafolami" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/timothyafolami?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a><a href="https://www.x.com/timothy_afolami" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/timothy_afolami?logo=twitter&style=for-the-badge&color=ec4899&labelColor=ffffff"
