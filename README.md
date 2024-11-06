@@ -1,7 +1,7 @@
 Hi! My name is John Eze
 =======================================================================================================================================
 
-Data Scientist | Machine Learning Engineer | AI Data Trainer
+Data Scientist | Machine Learning Engineer
 ------------------------------------------------------------
 
 Greetings, I am John, a seasoned Data Scientist with 3 years of experience transforming raw data from various sources and with various tools into actionable insights and training effective AI and machine learning models. My expertise lies in the realm of tabular data, where I have honed my skills in various techniques including but not limited to data cleaning, feature engineering, scaling, and preprocessing. In addition to tabular data, I possess a strong acumen in handling diverse data types such as time series, texts, images, and audio. My proficiency extends to various preprocessing techniques tailored for each of these data types. I am also familiar with Language Learning Models (LLMs) such as OpenAI, Mistral, Gemini, Copilot, etc I have leveraged them to build chatbots. I am passionate about using Data and AI to improve the lives of everyday people and am always eager to take on projects that do just that. HEre 
@@ -32,6 +32,7 @@ Greetings, I am John, a seasoned Data Scientist with 3 years of experience trans
 <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>  
+  https://www.svgrepo.com/show/373830/matlab.svg
 </p>
 
 
